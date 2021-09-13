@@ -1,5 +1,4 @@
-# Flutter Deer  git提交sw
-34453
+# Flutter Deer  git111提交sw
 <img src="preview/logo.jpg"/>
 
 本项目为个人学习Flutter的练习项目。
