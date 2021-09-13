@@ -1,4 +1,4 @@
-# Flutter Deer  666666
+# Flutter Deer  66666666
 <img src="preview/logo.jpg"/>
 
 本项目为个人学习Flutter的练习项目。
